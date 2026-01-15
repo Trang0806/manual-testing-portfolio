@@ -7,6 +7,6 @@ This repository contains my manual testing work including:
 - Bug Report samples
 - API Testing using Postman
 
-Project: Hotel Management System
+Project: Dự án điểm danh
 Role: Manual Tester
 # manual-testing-portfolio
