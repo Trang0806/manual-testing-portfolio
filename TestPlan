@@ -1,0 +1,20 @@
+# KẾ HOẠCH KIỂM THỬ – HỆ THỐNG ĐIỂM DANH
+
+## 1. Mục tiêu
+Kiểm tra các chức năng chính của hệ thống điểm danh bao gồm: đăng nhập, quản lý sinh viên, điểm danh vào/ra và báo cáo.
+
+## 2. Phạm vi kiểm thử
+- Đăng nhập / Đăng xuất
+- Quản lý sinh viên
+- Điểm danh vào / ra
+- Xem lịch sử điểm danh
+- Báo cáo – thống kê
+
+## 3. Loại kiểm thử
+- Kiểm thử chức năng (Functional Testing)
+- Kiểm thử giao diện người dùng (UI Testing)
+- Kiểm thử hồi quy (Regression Testing)
+
+## 4. Môi trường kiểm thử
+- Trình duyệt: Google Chrome
+- Hệ điều hành: Windows
